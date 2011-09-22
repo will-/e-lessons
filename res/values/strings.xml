@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SysuClassTableActivity!</string>
+    <string name="app_name">E课通</string>
+    <string name="update">更新</string>
+    <string name="about">关于</string>
+    <string name="quit">退出</string>
+    <string name="login_title">登录</string>
+    <string name = "about_title">说明</string>
+    <string name="about_text">\ 中大E课通V1.1   \nPowered by Yong  &amp; Will \n你+Maxcell,心之所致，无所不能</string>
+</resources>
